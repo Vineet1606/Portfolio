@@ -19,8 +19,8 @@ const Projects = () => {
   tech: ["React", "Tailwind CSS"],
   icon: "HeartPulse",
  "image": "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=600", // hospital corridor image
-  liveUrl: "https://medi-booking.vercel.app/",
-  githubUrl: "https://github.com/Vineet1606/StudySync"
+  liveUrl: "https://medi-booking-one.vercel.app/",
+  githubUrl: "https://github.com/Vineet1606/MediBooking"
   },
   {
     title: "Cuisine Quest",
